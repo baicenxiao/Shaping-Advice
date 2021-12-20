@@ -1,6 +1,6 @@
 **Status:** Archive (code is provided as-is, no updates expected)
 
-# Shaping Advice in Deep Multi-Agent Reinforcement Learning
+# Shaping Advice in Deep Reinforcement Learning
 
 ## Summary
 
